@@ -194,6 +194,7 @@ margin-bottom: 10px;
 .price-list button:hover{
   background-color: #1D4ED8;
   color: #ffffff;
+  border: 1px solid #7C3AED;
 }
 hr{
   margin: 25px 0;
@@ -310,6 +311,7 @@ border-radius: 15px;
 .footer-section img{
   width: 100px;
   height: 30px;
+  cursor: pointer;
 }
 .footer-section p{
   color: #ffffff;
